@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/coding/animation/media/videos/waves/1080p60/partial_movie_files/waves/1099251264_548731573_4134882914.mp4'
-file 'file:D:/coding/animation/media/videos/waves/1080p60/partial_movie_files/waves/3620618622_3353475001_3883259479.mp4'
-file 'file:D:/coding/animation/media/videos/waves/1080p60/partial_movie_files/waves/3620618622_789064381_1075200990.mp4'
